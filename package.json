@@ -1,0 +1,19 @@
+{
+  "name": "confluence-music",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "author": "iceixia",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.0",
+    "bootstrap": "^3.3.6",
+    "busboy": "^0.2.12",
+    "express": "^4.13.4",
+    "jquery": "^2.2.0",
+    "seriate": "^0.5.4"
+  }
+}
